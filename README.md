@@ -1,0 +1,1 @@
+Basic and stripped down product to demonstrate async microservices. No service should rely on another's database or send requests through another service. Run Client, Comments, and Posts on three different servers to test functionality.
